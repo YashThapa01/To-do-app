@@ -37,7 +37,7 @@ This project follows the MVVM architecture pattern, which helps to keep the code
 
 1. **Clone the repository:**
    ```sh
-   git clone [https://YashThapa01//To-do-App.git](https://github.com/YashThapa01/To-do-app)
+   git clone https://github.com/YashThapa01/To-do-app
    ```
 2. **Open the project in Android Studio.**
 
